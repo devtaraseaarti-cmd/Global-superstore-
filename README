@@ -1,0 +1,30 @@
+# Global Superstore – Data Cleaning & Formatting (Excel)
+
+## Project Overview
+This project focuses on cleaning and formatting the Global Superstore dataset using Microsoft Excel.
+The objective is to transform raw, messy data into a clean and analysis-ready dataset.
+
+## Tools Used
+- Microsoft Excel
+- Power Query
+- Excel built-in functions
+
+## Dataset
+- Global Superstore dataset
+- Contains sales, customer, product, and regional data
+
+## Data Cleaning Steps Performed
+- Removed duplicate records
+- Handled missing and blank values
+- Standardized text fields (TRIM, PROPER)
+- Corrected date and numeric formats
+- Renamed columns for clarity
+- Maintained raw and cleaned data separately
+
+## Files in Repository
+- Raw_Data.xlsx – Original dataset
+- Cleaned_Data.xlsx – Cleaned and formatted dataset
+- cleaned_dataset.csv – Final cleaned data in CSV format
+
+## Outcome
+The cleaned dataset is ready for further analysis and visualization.
